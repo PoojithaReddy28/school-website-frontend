@@ -19,7 +19,15 @@ const Profile = () => {
         <strong>Id:</strong> {currentUser.id}
       </p>
       <p>
-        <strong>Email</strong>
+        <strong>First Name:</strong>
+        {currentUser.fname}
+      </p>
+      <p>
+        <strong>Last Name</strong>
+        {currentUser.lname}
+      </p>
+      <p>
+        <strong>Email:</strong>
         {currentUser.email}
       </p>
       <strong> Authorities:</strong>
