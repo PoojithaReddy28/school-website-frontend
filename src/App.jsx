@@ -1,13 +1,13 @@
-import React from 'react'
-import './App.css'
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 
 function App() {
-
   return (
     <div className="App">
-     <p>Coming Soon</p>
+      <p>Coming Soon</p>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
