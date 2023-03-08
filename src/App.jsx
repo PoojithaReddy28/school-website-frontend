@@ -37,7 +37,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <Link to={"/"} className="navbar-brand">
           Shule
